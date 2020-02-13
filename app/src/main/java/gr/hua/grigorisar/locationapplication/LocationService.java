@@ -18,7 +18,6 @@ import android.os.IBinder;
 import androidx.annotation.Nullable;
 import androidx.annotation.RequiresApi;
 
-import static androidx.core.app.ActivityCompat.requestPermissions;
 
 
 public class LocationService extends Service {
